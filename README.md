@@ -1,0 +1,2 @@
+# rustProgramming
+class thing
